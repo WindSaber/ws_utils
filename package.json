@@ -1,0 +1,22 @@
+{
+  "name": "ws_utils",
+  "version": "1.0.0",
+  "description": "Package created to provide some help when I'm doing some stuff",
+  "main": "index.js",
+  "publishConfig": {
+    "access": "public"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/WindSaber/ws_utils.git"
+  },
+  "author": "WindSaber",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/WindSaber/ws_utils/issues"
+  },
+  "homepage": "https://github.com/WindSaber/ws_utils#readme"
+}
