@@ -1,5 +1,5 @@
 {
-  "name": "ws_utils",
+  "name": "@windsaber/ws_utils",
   "version": "1.0.0",
   "description": "Package created to provide some help when I'm doing some stuff",
   "main": "index.js",
