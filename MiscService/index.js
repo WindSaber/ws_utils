@@ -1,5 +1,3 @@
-class MiscService {
-	dialgo(){ console.log('Aqui estoy diciendo algo'); }
+export const diDesdeMisc = () => {
+    console.log("DIciendo cosas desde el service");
 }
-
-module.exports = MiscService;
