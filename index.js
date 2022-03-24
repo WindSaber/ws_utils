@@ -1,6 +1,8 @@
 import {diDesdeMisc} from "./MiscService";
+import {ordenarArrPorKey} from "./SortService";
 
-export const diMisc = diDesdeMisc;
+//export const diMisc = diDesdeMisc;
+export {diDesdeMisc, ordenarArrPorKey};
 
 export const diAlgo = () => console.log("Aqui digo algo");
 
