@@ -1,1 +1,3 @@
-export MiscService from "./MiscService/index";
+import {MiscService} from "./MiscService/index";
+
+export {MiscService}
